@@ -1,47 +1,48 @@
-# Selam, ben [Adın]! 👋
+# Hi, I'm Sude! 👋
 
-Hem Web hem de Mobil teknolojilerle ilgilenen, projeler geliştirmeyi seven bir yazılım geliştiricisiyim. Şu anda Kotlin ve Flutter ile mobil uygulamalar geliştiriyor, aynı zamanda web dünyasında projeler üretiyorum.
+I'm a passionate software developer focusing on both **Web** and **Mobile** technologies. I build cross-platform mobile apps using **Kotlin** & **Flutter**, and create dynamic web interfaces with **React**.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler (Tech Stack)
+### 🛠️ Tech Stack & Tools
 
-**Mobil Geliştirme**
+**Mobile Development**
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-**Web Geliştirme**
+**Web Development**
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </p>
-
----
-
-### 📂 Öne Çıkan Çalışmalarım
-
-Şu an odağımda olan iki ana alan var:
-
-| 📱 Mobil Projelerim (Android/Flutter) | 💻 Web Projelerim |
-| :--- | :--- |
-| **Kotlin ve Flutter** ile geliştirdiğim uygulamalar burada. | İçerisinde **6 farklı proje** barındıran web geliştirme serüvenim. |
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=senin-kullanici-adin&show_icons=true&theme=radical&locale=tr" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senin-kullanici-adin&layout=compact&theme=radical&locale=tr" alt="langs" />
 </p>
 
 ---
 
-### 📫 İletişim
+### 📂 Featured Projects
 
-* **LinkedIn:** [Profil Linkin](https://linkedin.com/in/sude-ates)
+Currently, I am focused on two main areas:
+
+| 📱 Mobile Projects (Android/Flutter) | 💻 Web Projects |
+| :--- | :--- |
+| My mobile applications built with **Kotlin** and **Flutter**. | My web development journey containing projectsincluding React apps. |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&locale=en" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&locale=en" alt="langs" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [Your Profile Link](https://linkedin.com/in/sude-ates)
 * **Email:** sdnrates2003@gmail.com
