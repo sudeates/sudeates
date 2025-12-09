@@ -44,5 +44,5 @@ Currently, I am focused on two main areas:
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [Your Profile Link](https://linkedin.com/in/sude-ates)
+* **LinkedIn:**(https://linkedin.com/in/sude-ates)
 * **Email:** sdnrates2003@gmail.com
