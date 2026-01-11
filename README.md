@@ -31,14 +31,6 @@ Currently, I am focused on two main areas:
 | :--- | :--- |
 | My mobile applications built with **Kotlin** and **Flutter**. | My web development journey containing projectsincluding React apps. |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&locale=en" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&locale=en" alt="langs" />
-</p>
 
 ---
 
